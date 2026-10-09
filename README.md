@@ -1,9 +1,9 @@
 # MyShop - Mini E-Commerce App
 
-| | |
-|---|---|
-| **Student Name** | _Your Name_ |
-| **Student ID** | _Your ID_ |
+| |                                          |
+|---|------------------------------------------|
+| **Student Name** | Rupan Dhungana                           |
+| **Student ID** | 2510412211                                |
 | **Course** | Mobile Application Development - Flutter |
 
 ## Description
@@ -63,7 +63,7 @@ lib/
 1. Install the [Flutter SDK](https://docs.flutter.dev/get-started/install).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/my-shop.git
+   git clone https://github.com/rupandhungana/my-shop.git
    cd my-shop
    ```
 3. Install dependencies:
